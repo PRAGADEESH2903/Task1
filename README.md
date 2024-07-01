@@ -11,8 +11,7 @@ This project provides scripts to analyze and visualize country data. It includes
   - [Step 2: Plotting Total Values per Year](#task-2-plotting-total-values-per-year)
   - [Step 3: Plotting Each Country's Data Values Separately](#task-3-plotting-each-countrys-data-values-separately)
   - [Step 4: Plotting Top 10 Countries by 2023 Indicator](#task-4-plotting-top-10-countries-by-2023-indicator)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
