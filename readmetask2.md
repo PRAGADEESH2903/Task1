@@ -18,25 +18,25 @@ Distribution of wine quality ratings
 Correlation analysis
 Visualization of relationships
 Identification of patterns and trends
-##Patterns and Trends
+## Patterns and Trends
 
 ### Quality Distribution: The majority of wines have quality ratings of 5, 6, or 7. Few wines have extremely low (3) or high (8) quality ratings.
 
 ### Correlation Analysis:
 
-Alcohol: Positive correlation with wine quality.
-Sulphates: Moderate positive correlation with wine quality.
-Density: Negative correlation with wine quality.
-Volatile Acidity: Negative correlation with wine quality.
-Feature vs. Quality Analysis:
+### Alcohol: Positive correlation with wine quality.
+### Sulphates: Moderate positive correlation with wine quality.
+### Density: Negative correlation with wine quality.
+### Volatile Acidity: Negative correlation with wine quality.
+### Feature vs. Quality Analysis:
 
-Fixed Acidity: No clear pattern with wine quality.
-Citric Acid: Slight positive correlation with wine quality.
-Residual Sugar: No clear pattern with wine quality.
-Chlorides: Wines with lower chloride levels tend to have better quality.
-Free Sulfur Dioxide: No clear pattern with wine quality.
-Total Sulfur Dioxide: Wines with lower total sulfur dioxide levels tend to have slightly better quality.
-pH: No clear pattern with wine quality.
+##### Fixed Acidity: No clear pattern with wine quality.
+##### Citric Acid: Slight positive correlation with wine quality.
+##### Residual Sugar: No clear pattern with wine quality.
+##### Chlorides: Wines with lower chloride levels tend to have better quality.
+##### Free Sulfur Dioxide: No clear pattern with wine quality.
+##### Total Sulfur Dioxide: Wines with lower total sulfur dioxide levels tend to have slightly better quality.
+##### pH: No clear pattern with wine quality.
 
 ### Visualizations
 Bar plots, histograms, scatter plots, and heatmaps used for analysis.
