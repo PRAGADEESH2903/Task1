@@ -41,3 +41,5 @@ Identification of patterns and trends
 ### Visualizations
 Bar plots, histograms, scatter plots, and heatmaps used for analysis.
 Insights derived from visual representations
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.....
