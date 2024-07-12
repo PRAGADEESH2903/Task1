@@ -20,6 +20,15 @@ Used a line plot to visualize changes in sentiment over time, tracking how senti
 Employed Natural Language Processing techniques such as CountVectorizer to transform text data into numerical features for modeling.
 Trained a Multinomial Naive Bayes classifier to predict sentiment based on text features.
 Evaluated model performance using classification metrics and visualized the confusion matrix to understand prediction accuracy.
+## Tools and Techniques
+Natural Language Processing (NLP): Utilized CountVectorizer for text preprocessing and feature extraction.
+Visualization: Used matplotlib and seaborn for visualizing sentiment distributions, word clouds, and word frequencies.
+Machine Learning: Applied Multinomial Naive Bayes for sentiment classification and evaluated model performance using classification metrics.
+Analysis and Insights
+## Sentiment Distribution: Visualized and analyzed the distribution of positive and negative sentiments.
+Word Clouds: Identified prominent words associated with positive and negative sentiments through word cloud visualizations.
+Word Frequency: Investigated the most frequent words in the dataset to understand common themes and topics.
+Model Performance: Evaluated the accuracy of sentiment classification using a machine learning model.
 ## Insights and Conclusion:
 Insights: Discovered key sentiment trends and common themes in social media discussions.
 Conclusion: Effective visualization and analysis of sentiment data provide valuable insights into public opinion dynamics, helping brands or organizations gauge sentiment towards their products or topics of interest.
